@@ -1,3 +1,3 @@
 # The-Recipe-Vault
 
-https://glistening-nasturtium-83f209.netlify.app/
+https://rainbow-biscotti-47c4ad.netlify.app/
